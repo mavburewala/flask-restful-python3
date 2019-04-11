@@ -10,6 +10,6 @@
     
 """
 
-MONGODB_SETTINGS = {'DB': 'library'}  # Set up the mongodb database
+MONGODB_SETTINGS = {'DB': 'restfull-flask-api'}  # Set up the mongodb database
 PASSWORD_SECRET = 'secret_for_ensure_password_security'
 TOKEN_SECRET = 'secret_for_ensure_token_security'
