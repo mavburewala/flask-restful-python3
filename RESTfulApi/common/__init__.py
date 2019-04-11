@@ -6,7 +6,7 @@
     Function Des: ...
     ~~~~~~~~~~
     
-    author: Jerry <cuteuy@gmail.com> <http://www.skyduy.com>
+    author: Nadeem <mavburewala@gmail.com>
     
 """
 

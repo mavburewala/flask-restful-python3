@@ -6,7 +6,7 @@
     Function Des: post/delete/put响应内容
     ~~~~~~~~~~
     
-    author: Jerry <cuteuy@gmail.com> <http://www.skyduy.com>
+    author: Nadeem <mavburewala@gmail.com>
     
 """
 from flask_restful import fields

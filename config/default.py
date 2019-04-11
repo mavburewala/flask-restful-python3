@@ -6,10 +6,10 @@
     Function Des: ...
     ~~~~~~~~~~
     
-    author: Jerry <cuteuy@gmail.com> <http://www.skyduy.com>
+    author: Nadeem <mavburewala@gmail.com>
     
 """
 
-MONGODB_SETTINGS = {'DB': 'library'}  # 设置mongodb的数据库
+MONGODB_SETTINGS = {'DB': 'library'}  # Set up the mongodb database
 PASSWORD_SECRET = 'secret_for_ensure_password_security'
 TOKEN_SECRET = 'secret_for_ensure_token_security'

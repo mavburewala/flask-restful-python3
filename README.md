@@ -1,5 +1,5 @@
 # RESTfulAPI
-flask-restful 实例。
+Flask-restful example.
 
-以mongodb作为数据库。
+Use mongodb as the database.
 

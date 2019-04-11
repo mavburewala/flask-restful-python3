@@ -6,7 +6,7 @@
     Function Des: MongoDB数据库映射
     ~~~~~~~~~~
 
-    author: Jerry <cuteuy@gmail.com> <http://www.skyduy.com>
+    author: Nadeem <mavburewala@gmail.com>
 
 """
 

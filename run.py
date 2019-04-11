@@ -6,7 +6,7 @@
     Function Des: ...
     ~~~~~~~~~~
     
-    author: Jerry <cuteuy@gmail.com> <http://www.skyduy.com>
+    author: Nadeem <mavburewala@gmail.com>
     
 """
 
@@ -17,7 +17,7 @@ from RESTfulApi.models import register_database
 
 def create_app(**config):
     """
-    创建并初始化一个 Flask App
+    Create and initialize a Flask App
     :param
     :return
     """
